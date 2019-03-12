@@ -1,0 +1,13 @@
+
+# database configuration, migrations, and seeders
+config/
+migrations/
+seeders/
+
+# node modules
+node_modules/
+
+#package-lock
+/package-lock.json
+
+
